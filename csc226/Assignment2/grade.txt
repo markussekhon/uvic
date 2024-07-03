@@ -1,0 +1,22 @@
+V00000000
+List of files submitted most recently:
+  TPP-P1-V00000000-Markus-Sekhon.pdf	Jun 12, 2023 0900 PM
+  TPP-P1-V00000000-Markus-Sekhon.ipynb	Jun 12, 2023 0900 PM
+
+### RUBRIC ###
+Submitted files as specified -> 1/1
+Answered some of the questions specified in the TPP part I ->  2/2
+Citations and references ->  1/1
+
+
+Some of the TPP Specification is copied below:
+Submit your TPP source file with extension .ipynb and its PDF file as follows: TPP-P1-UVicID-FirstName-LastName.pdf and TPP-P1-UVicID-FirstName-LastName.ipynb. The UVicID refers to the UVic V number.
+
+Citations and references. The contents of your Term Portfolio Jupyter Notebook must be your own work. If you reference the work of others (including information found on the web), include full citations in a bibliography at the end of your document.
+
+### MARKER COMMENTS ###
+
+
+
+total: 4.0/4
+
